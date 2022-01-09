@@ -1,10 +1,10 @@
-### Olá 👋
+### Hello World 👋
 
 - 🔭 Atualmente estou desempregado.
 - 🌱 Eu estudo a triade Front end.
 - 👯 Estou em busca de uma oportunidade como Frontend Jr | UX/UI.
 
-##  Olá meu nome é Vinícius estudo programação e UX/UI!
+##  Meu nome é Vinícius estudo programação e UX/UI!
 <div align = "center">
   <a href="https://github.com/vinistaiguer">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=vinistaiguer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
