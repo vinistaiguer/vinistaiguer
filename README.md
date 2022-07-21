@@ -1,8 +1,7 @@
 ### Hello World 👋
 
-- 🔭 Atualmente estou desempregado.
-- 🌱 Eu estudo a triade Front end.
-- 👯 Estou em busca de uma oportunidade como Frontend Jr | UX/UI.
+- 🔭 Atualmente estou trabalhando como desenvolvedor Fullstack.
+- 🌱 Estou em busda de me aperfeiçoar em ReactJs e NodeJs.
 
 ##  Meu nome é Vinícius estudo programação e UX/UI!
 <div align = "center">
