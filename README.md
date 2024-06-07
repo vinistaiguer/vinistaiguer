@@ -1,9 +1,6 @@
 ### Hello World 👋
+##  Meu nome é Vinícius Staiquer, atualmente estou trabalhando como desenvolvedor Fullstack.
 
-- 🔭 Atualmente estou trabalhando como desenvolvedor Fullstack.
-- 🌱 Estou em busda de me aperfeiçoar em ReactJs e NodeJs.
-
-##  Meu nome é Vinícius estudo programação e UX/UI!
 <div align = "center">
   <a href="https://github.com/vinistaiguer">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=vinistaiguer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
